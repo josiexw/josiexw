@@ -1,5 +1,5 @@
 - Hi, I’m @josiexw
-- I’m studying computer science and neuroscience
+- I’m studying AI and decision making
 
 <!---
 josiexw/josiexw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
