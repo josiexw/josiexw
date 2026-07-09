@@ -1,1 +1,1 @@
-I studied computer science in MIT.
+I studied computer science at MIT.
